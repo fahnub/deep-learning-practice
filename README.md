@@ -1,2 +1,2 @@
 # deep-learning-practice
-my code archive for deep learning practice
+practicing and trying out different deep learning models and frameworks
